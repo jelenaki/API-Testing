@@ -1,6 +1,7 @@
 # API-Testing
 Testing APi's on vue-demo.daniel-avellaneda.com/
 
+GET Postman collection 
 https://documenter.getpostman.com/view/9558715/Szt8fAkr?version=latest
 
 
